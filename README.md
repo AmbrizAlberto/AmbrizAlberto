@@ -18,6 +18,9 @@
 - Personal website [link](https://ambrizalberto.github.io/Briefcase/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://ambrizalberto.github.io/Briefcase/)
 
+<br>
+<br>
+<p align="center">
 
 ```python
 class AmbrizAlberto():
@@ -35,6 +38,7 @@ class AmbrizAlberto():
 if __name__ == '__main__':
     me = AmbrizAlberto()
 ```
+</p>
 
 <br>
 
