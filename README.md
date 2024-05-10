@@ -154,13 +154,3 @@ if __name__ == '__main__':
 		
 ##  <b>Programando✨
 </p>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
