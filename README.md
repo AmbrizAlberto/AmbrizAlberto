@@ -102,7 +102,7 @@
 
 <br>
 <br>
-<div align='left'>
+<div align='center'>
 
 <ul>
 
