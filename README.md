@@ -18,6 +18,23 @@
 - Personal website [link](https://ambrizalberto.github.io/Briefcase/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://ambrizalberto.github.io/Briefcase/)
 
+  ```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Alberto Ambriz";
+    self.username = "Al";
+    self.location = "Manzanillo, Colima, Mexico";
+    self.email = "albertpoambez@icloud.com";
+    self.web = "https://github.com/AmbrizAlberto/";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Al()
+```
+
 <br>
 
 
