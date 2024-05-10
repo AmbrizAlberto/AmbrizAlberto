@@ -29,7 +29,7 @@ class AmbrizAlberto():
     self.name = "Alberto Ambriz";
     self.username = "Al";
     self.location = "Manzanillo, Colima, Mexico";
-    self.twitter = "albertpoambez@icloud.com";
+    self.email = "albertpoambez@icloud.com";
     self.web = "https://github.com/AmbrizAlberto/";
   
   def __str__(self):
