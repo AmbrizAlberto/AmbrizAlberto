@@ -122,12 +122,10 @@ if __name__ == '__main__':
 
 </a>
 </div>
-
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <br>
 <br>
 <br>
@@ -135,14 +133,8 @@ if __name__ == '__main__':
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
-<div align='left'>
-
 <ul>
-
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
 <a href="https://linkedin.com/in/alberto-ambriz-chavez/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Alberto Ambriz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
