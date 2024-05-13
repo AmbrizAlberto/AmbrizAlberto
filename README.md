@@ -31,7 +31,7 @@ class AmbrizAlberto():
     self.username = "Al";
     self.location = "Manzanillo, Colima, Mexico";
     self.email = "albertpoambez@icloud.com";
-    self.web = "https://github.com/AmbrizAlberto/";
+    self.web = "https://ambrizalberto.github.io/Briefcase/";
   
   def __str__(self):
     return self.name
