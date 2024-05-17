@@ -15,7 +15,7 @@
 - A passionate Self-taught Full Stack developer
 - Currently learning Web Development by Self
 - Personal website [link](https://ambrizalberto.github.io/Portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://ambrizalberto.github.io/Briefcase/](https://ambrizalberto.github.io/Portfolio/CVES.pdf))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://ambrizalberto.github.io/Briefcase/](https://ambrizalberto.github.io/Portfolio/CVES.pdf])
 - I love programming ^^
 
 <br>
