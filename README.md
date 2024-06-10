@@ -72,6 +72,7 @@ if __name__ == '__main__':
 
 - **Backend Development**:
 
+    ![Prisma](https://img.shields.io/badge/Prisma%20-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
