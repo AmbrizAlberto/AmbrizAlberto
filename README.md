@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello World! I'm Alberto Ambriz - Al Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center"><b>Hello World! I'm Alberto Ambriz - Questers </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 <!--  -->
 <p align="center">
@@ -25,11 +25,11 @@
 <p align="center">
 
 ```python
-class AmbrizAlberto():
+class Questers():
     
   def __init__(self):
     self.name = "Alberto Ambriz";
-    self.username = "Al";
+    self.username = "Questers";
     self.location = "Manzanillo, Colima, Mexico";
     self.email = "albertpoambez@icloud.com";
     self.web = "https://ambrizalberto.github.io/Portfolio/";
@@ -38,7 +38,7 @@ class AmbrizAlberto():
     return self.name
 
 if __name__ == '__main__':
-    me = AmbrizAlberto()
+    me = Questers()
 ```
 </p>
 
@@ -145,14 +145,14 @@ if __name__ == '__main__':
 <ul>
 
 <a href="https://linkedin.com/in/alberto-ambriz-chavez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Alberto Ambriz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Alberto Ambriz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <br>
 
 
 <a href="mailto:albertpoambez@icloud.com?subject=Correo%20Importante%20de%20Contacto%20Github%20&body=Hola%20Alberto,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
-<img src="https://img.shields.io/badge/email:  albertpoambez-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" t=email style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email: albertpoambez-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" t=email style="margin-bottom: 5px;" />
 </a>
 
 
